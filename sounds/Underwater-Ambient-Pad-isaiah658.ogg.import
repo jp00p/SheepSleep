@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Underwater-Ambient-Pad-isaiah658.ogg-ea10bdf91ae3e8bed82f5073cade39f0.oggstr"
+
+[deps]
+
+source_file="res://sounds/Underwater-Ambient-Pad-isaiah658.ogg"
+dest_files=[ "res://.import/Underwater-Ambient-Pad-isaiah658.ogg-ea10bdf91ae3e8bed82f5073cade39f0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
