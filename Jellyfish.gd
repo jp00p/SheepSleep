@@ -21,5 +21,8 @@ func _on_VisibilityNotifier2D_screen_exited():
 
 
 func _on_TextureButton_pressed():
-	print("Ding")
 	$AnimatedSprite.play("touched")
+	if randf() > 0.5:
+		$Splash1.play()
+	else:
+		$Splash2.play()

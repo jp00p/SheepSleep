@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="SheepSleep"
+config/name="SleepyWaters"
+config/description="A sleep aid application"
 run/main_scene="res://Game.tscn"
 config/icon="res://icon.png"
 
