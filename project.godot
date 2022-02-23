@@ -13,7 +13,7 @@ config_version=4
 config/name="SleepyWaters"
 config/description="A sleep aid application"
 run/main_scene="res://Game.tscn"
-config/icon="res://icon.png"
+config/icon="res://graphics/shell-closed.png"
 
 [display]
 
@@ -57,4 +57,5 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
+quality/driver/driver_name="GLES2"
 environment/default_environment="res://default_env.tres"
